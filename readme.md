@@ -17,7 +17,7 @@ Aplikasi web lengkap yang dibangun dengan framework CodeIgniter 3 yang menampilk
 * Manajemen sesi
 
 ### 3. Object-Oriented Programming (OOP)
-* Penggunaan kelas(class) dan pewarisan(inheritance) yang tepat
+* Penggunaan kelas (Class) dan pewarisan (Inheritance) yang tepat
 * Arsitektur Model-View-Controller (MVC)
 * Pemisahan masalah yang jelas
 
