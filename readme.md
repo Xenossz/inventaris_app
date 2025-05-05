@@ -175,7 +175,26 @@ Proyek ini dilisensikan di bawah Lisensi MIT - lihat berkas LICENSE untuk detail
 * [Font Awesome](https://fontawesome.com/) - Icons
 
 ## Screenshot
+* Halaman Dashboard
 ![admin](screenshot/dashboard.png)
+
+* Halaman Items
+![admin](screenshot/items.png)
+
+* Halaman Tambah Items
+![admin](screenshot/items_add.png)
+
+* Halaman Edit Items
+![admin](screenshot/items_edit.png)
+
+* Halaman View Items
+![admin](screenshot/items_view.png)
+
+* Halaman Login
+![admin](screenshot/login.png)
+
+* Halaman Register
+![admin](screenshot/Register.png)
 
 ## Author
 
