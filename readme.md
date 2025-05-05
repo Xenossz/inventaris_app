@@ -174,6 +174,10 @@ Proyek ini dilisensikan di bawah Lisensi MIT - lihat berkas LICENSE untuk detail
 * [Bootstrap](https://getbootstrap.com/) - CSS framework
 * [Font Awesome](https://fontawesome.com/) - Icons
 
+## Screenshot
+![admin](screenshot/dashboard.png)
+
 ## Author
 
 Raghib Galieh Basmallah - [raghibbasmallah@gmail.com](mailto:raghibbasmallah@gmail.com)
+
