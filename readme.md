@@ -1,3 +1,6 @@
+# DEMO URL
+* https://inventaris-app.rf.gd/
+
 # CodeIgniter 3 CRUD Inventaris APP
 
 Aplikasi web lengkap yang dibangun dengan framework CodeIgniter 3 yang menampilkan operasi CRUD, autentikasi pengguna, dan desain responsif.
