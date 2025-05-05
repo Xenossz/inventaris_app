@@ -14,7 +14,6 @@
         .navbar-brand {
             font-weight: bold;
         }
-
         .content {
             padding: 20px;
         }

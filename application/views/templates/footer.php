@@ -1,11 +1,9 @@
 <?php if ($this->session->userdata('logged_in')) : ?>
-        </div>
-    </div>
-</div>
-</main>
 <?php endif; ?>
 
-    <footer class="footer">
+    </div>
+
+    <footer class="footer ">
         <div class="container">
             <strong>
                 <p>&copy; <?php echo date('Y'); ?> <a href="https://instagram.com/raghib.13">Aplikasi Iventaris Asset Pribadi</a> All rights reserved.</p>
