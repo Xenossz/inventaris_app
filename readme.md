@@ -194,7 +194,7 @@ Proyek ini dilisensikan di bawah Lisensi MIT - lihat berkas LICENSE untuk detail
 ![admin](screenshot/login.png)
 
 * Halaman Register
-![admin](screenshot/Register.png)
+![admin](screenshot/register.png)
 
 ## Author
 
