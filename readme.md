@@ -191,7 +191,7 @@ Proyek ini dilisensikan di bawah Lisensi MIT - lihat berkas LICENSE untuk detail
 ![admin](screenshot/items_edit.png)
 
 * Halaman View Items
-![admin](screenshot/items_view.png)
+![admin](screenshot/items_views.png)
 
 * Halaman Login
 ![admin](screenshot/login.png)
