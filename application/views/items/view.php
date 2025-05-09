@@ -27,7 +27,7 @@
                     <p><?php echo nl2br($item->description); ?></p>
                 </div>
                 <div class="mb-3">
-                    <strong>Harga:</strong> $<?php echo number_format($item->price, 2); ?>
+                    <strong>Harga:</strong> Rp. <?php echo number_format($item->price, 2); ?>
                 </div>
             </div>
             <div class="col-md-4">
