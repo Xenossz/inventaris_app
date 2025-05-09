@@ -48,7 +48,7 @@
                         <?php foreach (array_slice($items, 0, 5) as $item) : ?>
                             <tr>
                                 <td><?php echo $item->name; ?></td>
-                                <td>$<?php echo number_format($item->price, 2); ?></td>
+                                <td>Rp. <?php echo number_format($item->price, 2); ?></td>
                                 <td><?php echo date('M j, Y', strtotime($item->created_at)); ?></td>
                                 <td>
                                     <a href="<?php echo base_url('items/view/'.$item->id); ?>" class="btn btn-sm btn-info">
